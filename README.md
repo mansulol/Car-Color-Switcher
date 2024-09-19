@@ -6,7 +6,7 @@ Aquí tienes la traducción al inglés:
 
 This is a test project built with React and Tailwind CSS that simulates changing the color of cars. Similar to how you can change the color of shirts in online stores, here you can change the color of cars by clicking on color selection buttons.
 
-![Img Interface](public\interface.png)
+![Img Interface](./public/interface.png)
 
 ---
 
